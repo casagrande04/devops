@@ -7,4 +7,5 @@ Utilizando o VSCode com o Git e Github
 ## VSCode
 
 Utilizando VSCode
+
 ![](https://github.com/casagrande04/devops/blob/main/ninja.gif)
